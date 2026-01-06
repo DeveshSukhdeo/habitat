@@ -111,7 +111,9 @@ button {
 }
 
 .btns {
-  justify-content: center;
+  display: flex; 
+  justify-content: center; 
+  gap: 20px;
 }
 
 button:hover {
